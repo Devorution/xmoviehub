@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://devorution.github.io/xmoviehub/sitemap2.xml
+Sitemap: https://devorution.github.io/xmoviehub/sitemap.xml
