@@ -4,7 +4,7 @@ Official resources and links.
 
 ## Website
 - https://xmoviehub.com/
-
+- Content & updates: https://xmoviehubguide.wordpress.com
 ## Key pages
 - https://xmoviehub.com/categories
 - https://xmoviehub.com/popular
@@ -16,5 +16,7 @@ Official resources and links.
 ## GitHub Pages
 - https://devorution.github.io/xmoviehub/
 - Gist: https://gist.github.com/Devourtion/5da70eec509d089f21bb71b1af031aef
+
+
 ## Contact
 - support@xmoviehub.com
