@@ -1,22 +1,17 @@
-# XMovieHub — Official
+# XMovieHub — Official Project
 
-Official resources and links.
+XMovieHub is an independent video platform focused on
+content organization, performance, and usability.
 
-## Website
-- https://xmoviehub.com/
-- Content & updates: https://xmoviehubguide.wordpress.com
-## Key pages
-- https://xmoviehub.com/categories
-- https://xmoviehub.com/popular
-- https://xmoviehub.com/tag/european
-- https://xmoviehub.com/tag/asian
-- https://xmoviehub.com/tag/teen
-- https://xmoviehub.com/tag/hentai
+## Official Website
+https://xmoviehub.com/
 
-## GitHub Pages
-- https://devorution.github.io/xmoviehub/
-- Gist: https://gist.github.com/Devourtion/5da70eec509d089f21bb71b1af031aef
+## Project Documentation
+https://devorution.github.io/xmoviehub/
 
+## Source Repositories
+- GitHub: https://github.com/devorution/xmoviehub
+- Bitbucket: https://bitbucket.org/devorution/xmoviehub/
 
 ## Contact
-- support@xmoviehub.com
+support@xmoviehub.com
