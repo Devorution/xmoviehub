@@ -17,5 +17,11 @@ Official resources and links.
 - https://devorution.github.io/xmoviehub/
 - Gist: https://gist.github.com/Devourtion/5da70eec509d089f21bb71b1af031aef
 
+## Source Repositories
+- GitHub: https://github.com/devorution/xmoviehub
+- Bitbucket: https://bitbucket.org/devorution/xmoviehub/
+
+
+
 ## Contact
 - support@xmoviehub.com
